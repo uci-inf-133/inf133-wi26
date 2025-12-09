@@ -1,0 +1,248 @@
+{
+	"defaults": {
+		"lecture" : {
+			"place": {
+					"time": "14:00",
+					"duration": "80",
+					"label": "Lecture",
+					"location": "HSLH 100A"
+				}
+		},
+		"discussion" : {
+			"places": [
+				{
+					"time": "15:00",
+					"duration": "50",
+					"location": "ELH 100"
+				}
+			]
+		},
+		"officehours_daniel": {
+			"title": "Professor Epstein Office Hours",
+			"place": {
+					"time": "12:30",
+					"duration": "60",
+					"location": "DBH 6093"
+				}
+		},
+		"officehours_weijun": {
+			"title": "Weijun Office Hours",
+			"place": {
+					"time": "14:00",
+					"duration": "60",
+					"location": "DBH 5221"
+				}
+		},
+		"officehours_ziqi": {
+			"title": "Ziqi Office Hours",
+			"place": {
+					"time": "12:00",
+					"duration": "60",
+					"location": "DBH 5221"
+				}
+		},
+		"officehours_aaron": {
+			"title": "Aaron Office Hours",
+			"place": {
+					"time": "13:00",
+					"duration": "60",
+					"location": "Zoom",
+					"link": "https://uci.zoom.us/j/99970419355"
+				}
+		},
+		"assignment" : {
+			"due": "23:59"
+		},
+		"quiz" : {
+			"place": null
+		}
+	},
+	"events" : [
+		{
+			"date": "2026-01-06",
+			"type": "lecture",
+			"title": "Introduction & History",
+			"link": "lectures/l1-introduction_history.pdf"
+		},
+		{
+			"date": "2026-01-08",
+			"type": "lecture",
+			"title": "HTML & Accessibility",
+			"link": "lectures/l2-html_accessibility.pdf",
+			"demo": "demos/l2-html_accessibility.zip"
+		},
+		{
+			"date": "2026-01-09",
+			"type": "discussion",
+			"title": "Git and GitHub Tutorial (TBD)"
+		},
+		{
+			"date": "2026-01-13",
+			"type": "lecture",
+			"title": "CSS",
+			"link": "lectures/l3-css.pdf",
+			"demo": "demos/l3-css.zip"
+		},
+		{
+			"date": "2026-01-15",
+			"type": "lecture",
+			"title": "Responsive Design & Javascript 1"
+		},
+		{
+			"date": "2026-01-16",
+			"type": "discussion",
+			"title": "HTML & CSS Demo (TBD)"
+		},
+		{
+			"date": "2026-01-20",
+			"type": "lecture",
+			"title": "JavaScript 2"
+		},
+		{
+			"date": "2026-01-21",
+			"type": "assignment",
+			"title": "A1",
+			"name": "Responsive Portfolio in HTML and CSS",
+			"link": "assignments/a1"
+		},
+		{
+			"date": "2026-01-22",
+			"type": "lecture",
+			"title": "DOM Manipulation & Package Management"
+		},
+		{
+			"date": "2026-01-23",
+			"type": "discussion",
+			"title": "Javascript Demo (TBD)"
+		},
+		{
+			"date": "2026-01-27",
+			"type": "lecture",
+			"title": "TypeScript & Data Visualization Tools"
+		},
+		{
+			"date": "2026-01-29",
+			"type": "lecture",
+			"title": "AJAX, Fetch, & Promises"
+		},
+		{
+			"date": "2026-01-30",
+			"type": "discussion",
+			"title": "Vega-Lite Demo (TBD)"
+		},
+		{
+			"date": "2026-02-03",
+			"type": "lecture",
+			"title": "Server-Side Development, Authentication, and Authorization"
+		},
+		{
+			"date": "2026-02-04",
+			"type": "assignment",
+			"title": "A2",
+			"name": "Runkeeper Tweet Report in JavaScript and TypeScript"
+		},
+		{
+			"date": "2026-02-05",
+			"type": "lecture",
+			"title": "Components in Angular"
+		},
+		{
+			"date": "2026-02-06",
+			"type": "discussion",
+			"title": "Angular Demo (TBD)"
+		},
+		{
+			"date": "2026-02-10",
+			"type": "lecture",
+			"title": "Separation in Angular & Modeling Human Performance"
+		},
+		{
+			"date": "2026-02-12",
+			"type": "lecture",
+			"title": "Hybrid & Native Architectures"
+		},
+		{
+			"date": "2026-02-13",
+			"type": "discussion",
+			"title": "TA Office Hours (TBD)"
+		},
+		{
+			"date": "2026-02-17",
+			"type": "lecture",
+			"title": "Ionic Components"
+		},
+		{
+			"date": "2026-02-19",
+			"type": "lecture",
+			"title": "Mobile Design Principles & SASS"
+		},
+		{
+			"date": "2026-02-20",
+			"type": "discussion",
+			"title": "TA Office Hours (TBD)"
+		},
+        {
+			"date": "2026-02-20",
+			"type": "assignment",
+			"title": "A3",
+			"name": "Spotify Browser in Angular"
+		},
+		{
+			"date": "2026-02-24",
+			"type": "lecture",
+			"title": "Device Resources & Sensors"
+		},
+		{
+			"date": "2026-02-26",
+			"type": "lecture",
+			"title": "Databases and Local Storage"
+		},
+        {
+			"date": "2026-02-27",
+			"type": "discussion",
+			"title": "Ionic Demo (TBD)"
+		},
+		{
+			"date": "2026-03-03",
+			"type": "lecture",
+			"title": "GenAI and Interface Development"
+		},
+        {
+			"date": "2026-03-05",
+			"type": "lecture",
+			"title": "Beyond Web & Mobile"
+		},
+		{
+			"date": "2026-03-06",
+			"type": "discussion",
+			"title": "TA Office Hours (TBD)"
+		},
+		{
+			"date": "2026-03-06",
+			"type": "assignment",
+			"title": "A4",
+			"name": "Sleep Tracker in Ionic"
+		},
+		{
+			"date": "2026-03-10",
+			"type": "lecture",
+			"title": "Research in User Interface Development"
+		},
+		{
+			"date": "2026-03-12",
+			"type": "lecture",
+			"title": "Wrap-up"
+		},
+		{
+			"date": "2026-03-13",
+			"type": "discussion",
+			"title": "TA Office Hours (TBD)"
+		},
+		{
+			"date": "2026-03-17",
+			"type": "assignment",
+			"title": "A5",
+			"name": "Material Widget Factory with GenAI"
+		}
+	]
+}
