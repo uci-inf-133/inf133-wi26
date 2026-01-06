@@ -20,7 +20,7 @@
 		"officehours_daniel": {
 			"title": "Professor Epstein Office Hours",
 			"place": {
-					"time": "12:30",
+					"time": "11:00",
 					"duration": "60",
 					"location": "DBH 6093"
 				}
@@ -28,7 +28,7 @@
 		"officehours_weijun": {
 			"title": "Weijun Office Hours",
 			"place": {
-					"time": "14:00",
+					"time": "11:00",
 					"duration": "60",
 					"location": "DBH 5221"
 				}
@@ -36,7 +36,7 @@
 		"officehours_ziqi": {
 			"title": "Ziqi Office Hours",
 			"place": {
-					"time": "12:00",
+					"time": "14:00",
 					"duration": "60",
 					"location": "DBH 5221"
 				}
@@ -44,10 +44,19 @@
 		"officehours_aaron": {
 			"title": "Aaron Office Hours",
 			"place": {
-					"time": "13:00",
+					"time": "12:00",
 					"duration": "60",
 					"location": "Zoom",
-					"link": "https://uci.zoom.us/j/99970419355"
+					"link": "https://uci.zoom.us/j/99443811817"
+				}
+		},
+		"officehours_brandon": {
+			"title": "Brandon Office Hours",
+			"place": {
+					"time": "10:00",
+					"duration": "60",
+					"location": "Zoom",
+					"link": "https://us05web.zoom.us/j/85289939109?pwd=5xHCuHau5Dd4ZhqIX0hrkyxaNp6Whz.1"
 				}
 		},
 		"assignment" : {
@@ -74,7 +83,15 @@
 		{
 			"date": "2026-01-09",
 			"type": "discussion",
-			"title": "Git and GitHub Tutorial (TBD)"
+			"title": "Git and GitHub Tutorial (Ziqi)"
+		},
+		{
+			"date": "2026-01-12",
+			"type": "officehours_weijun"
+		},
+		{
+			"date": "2026-01-13",
+			"type": "officehours_brandon"
 		},
 		{
 			"date": "2026-01-13",
@@ -84,14 +101,39 @@
 			"demo": "demos/l3-css.zip"
 		},
 		{
+			"date": "2026-01-13",
+			"type": "officehours_aaron"
+		},
+		{
+			"date": "2026-01-14",
+			"type": "officehours_ziqi"
+		},
+		{
 			"date": "2026-01-15",
 			"type": "lecture",
 			"title": "Responsive Design & Javascript 1"
 		},
 		{
+			"date": "2026-01-15",
+			"type": "officehours_daniel"
+		},
+		{
 			"date": "2026-01-16",
 			"type": "discussion",
 			"title": "HTML & CSS Demo (TBD)"
+		},
+		{
+			"date": "2026-01-19",
+			"type": "holiday",
+			"title": "M.L. King Jr. Holiday"
+		},
+		{
+			"date": "2026-01-20",
+			"type": "officehours_brandon"
+		},
+		{
+			"date": "2026-01-20",
+			"type": "officehours_aaron"
 		},
 		{
 			"date": "2026-01-20",
@@ -100,10 +142,18 @@
 		},
 		{
 			"date": "2026-01-21",
+			"type": "officehours_ziqi"
+		},
+		{
+			"date": "2026-01-21",
 			"type": "assignment",
 			"title": "A1",
 			"name": "Responsive Portfolio in HTML and CSS",
 			"link": "assignments/a1"
+		},
+		{
+			"date": "2026-01-22",
+			"type": "officehours_daniel"
 		},
 		{
 			"date": "2026-01-22",
@@ -116,9 +166,29 @@
 			"title": "Javascript Demo (TBD)"
 		},
 		{
+			"date": "2026-01-26",
+			"type": "officehours_weijun"
+		},
+		{
+			"date": "2026-01-27",
+			"type": "officehours_brandon"
+		},
+		{
+			"date": "2026-01-27",
+			"type": "officehours_aaron"
+		},
+		{
 			"date": "2026-01-27",
 			"type": "lecture",
 			"title": "TypeScript & Data Visualization Tools"
+		},
+		{
+			"date": "2026-01-28",
+			"type": "officehours_ziqi"
+		},
+		{
+			"date": "2026-01-29",
+			"type": "officehours_daniel"
 		},
 		{
 			"date": "2026-01-29",
@@ -131,15 +201,35 @@
 			"title": "Vega-Lite Demo (TBD)"
 		},
 		{
+			"date": "2026-02-02",
+			"type": "officehours_weijun"
+		},
+		{
+			"date": "2026-02-03",
+			"type": "officehours_brandon"
+		},
+		{
+			"date": "2026-02-03",
+			"type": "officehours_aaron"
+		},
+		{
 			"date": "2026-02-03",
 			"type": "lecture",
 			"title": "Server-Side Development, Authentication, and Authorization"
 		},
 		{
 			"date": "2026-02-04",
+			"type": "officehours_ziqi"
+		},
+		{
+			"date": "2026-02-04",
 			"type": "assignment",
 			"title": "A2",
 			"name": "Runkeeper Tweet Report in JavaScript and TypeScript"
+		},
+		{
+			"date": "2026-02-05",
+			"type": "officehours_daniel"
 		},
 		{
 			"date": "2026-02-05",
@@ -152,9 +242,29 @@
 			"title": "Angular Demo (TBD)"
 		},
 		{
+			"date": "2026-02-09",
+			"type": "officehours_weijun"
+		},
+		{
+			"date": "2026-02-10",
+			"type": "officehours_brandon"
+		},
+		{
+			"date": "2026-02-10",
+			"type": "officehours_aaron"
+		},
+		{
 			"date": "2026-02-10",
 			"type": "lecture",
 			"title": "Separation in Angular & Modeling Human Performance"
+		},
+		{
+			"date": "2026-02-11",
+			"type": "officehours_ziqi"
+		},
+		{
+			"date": "2026-02-12",
+			"type": "officehours_daniel"
 		},
 		{
 			"date": "2026-02-12",
@@ -167,9 +277,30 @@
 			"title": "TA Office Hours (TBD)"
 		},
 		{
+			"date": "2026-02-16",
+			"type": "holiday",
+			"title": "Presidents' Day Holiday"
+		},
+		{
+			"date": "2026-02-17",
+			"type": "officehours_brandon"
+		},
+		{
+			"date": "2026-02-17",
+			"type": "officehours_aaron"
+		},
+		{
 			"date": "2026-02-17",
 			"type": "lecture",
 			"title": "Ionic Components"
+		},
+		{
+			"date": "2026-02-18",
+			"type": "officehours_ziqi"
+		},
+		{
+			"date": "2026-02-19",
+			"type": "officehours_daniel"
 		},
 		{
 			"date": "2026-02-19",
@@ -188,9 +319,29 @@
 			"name": "Spotify Browser in Angular"
 		},
 		{
+			"date": "2026-02-23",
+			"type": "officehours_weijun"
+		},
+		{
+			"date": "2026-02-24",
+			"type": "officehours_brandon"
+		},
+		{
+			"date": "2026-02-24",
+			"type": "officehours_aaron"
+		},
+		{
 			"date": "2026-02-24",
 			"type": "lecture",
 			"title": "Device Resources & Sensors"
+		},
+		{
+			"date": "2026-02-25",
+			"type": "officehours_ziqi"
+		},
+		{
+			"date": "2026-02-26",
+			"type": "officehours_daniel"
 		},
 		{
 			"date": "2026-02-26",
@@ -203,9 +354,29 @@
 			"title": "Ionic Demo (TBD)"
 		},
 		{
+			"date": "2026-03-02",
+			"type": "officehours_weijun"
+		},
+		{
+			"date": "2026-03-03",
+			"type": "officehours_brandon"
+		},
+		{
+			"date": "2026-03-03",
+			"type": "officehours_aaron"
+		},
+		{
 			"date": "2026-03-03",
 			"type": "lecture",
 			"title": "GenAI and Interface Development"
+		},
+		{
+			"date": "2026-03-04",
+			"type": "officehours_ziqi"
+		},
+        {
+			"date": "2026-03-05",
+			"type": "officehours_daniel"
 		},
         {
 			"date": "2026-03-05",
@@ -224,9 +395,29 @@
 			"name": "Sleep Tracker in Ionic"
 		},
 		{
+			"date": "2026-03-09",
+			"type": "officehours_weijun"
+		},
+		{
+			"date": "2026-03-10",
+			"type": "officehours_brandon"
+		},
+		{
+			"date": "2026-03-10",
+			"type": "officehours_aaron"
+		},
+		{
 			"date": "2026-03-10",
 			"type": "lecture",
 			"title": "Research in User Interface Development"
+		},
+		{
+			"date": "2026-03-11",
+			"type": "officehours_ziqi"
+		},
+		{
+			"date": "2026-03-12",
+			"type": "officehours_daniel"
 		},
 		{
 			"date": "2026-03-12",
