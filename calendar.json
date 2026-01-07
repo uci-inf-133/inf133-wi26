@@ -112,7 +112,9 @@
 		{
 			"date": "2026-01-15",
 			"type": "lecture",
-			"title": "Responsive Design & Javascript 1"
+			"title": "Responsive Design & Javascript 1",
+			"link": "lectures/l4-responsive_javascript.pdf",
+			"demo": "demos/l4-responsive_javascript.zip"
 		},
 		{
 			"date": "2026-01-15",
