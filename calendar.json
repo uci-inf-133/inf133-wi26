@@ -79,7 +79,8 @@
 			"type": "lecture",
 			"title": "HTML & Accessibility",
 			"link": "lectures/l2-html_accessibility.pdf",
-			"demo": "demos/l2-html_accessibility.zip"
+			"demo": "demos/l2-html_accessibility.zip",
+			"recording": "https://uci.yuja.com/V/Video?v=15011905&a=204809824"
 		},
 		{
 			"date": "2026-01-09",
