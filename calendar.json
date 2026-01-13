@@ -105,7 +105,10 @@
 		},
 		{
 			"date": "2026-01-13",
-			"type": "officehours_aaron"
+			"type": "officehours_aaron",
+			"place": {
+					"time": "11:00"
+				}
 		},
 		{
 			"date": "2026-01-14",
