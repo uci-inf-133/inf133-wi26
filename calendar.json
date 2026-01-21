@@ -151,7 +151,8 @@
 			"type": "lecture",
 			"title": "JavaScript 2",
 			"link": "lectures/l5-javascript.pdf",
-			"demo": "demos/l5-javascript.zip"
+			"demo": "demos/l5-javascript.zip",
+			"recording": "https://uci.yuja.com/V/Video?v=15125973&a=30183410"
 		},
 		{
 			"date": "2026-01-21",
