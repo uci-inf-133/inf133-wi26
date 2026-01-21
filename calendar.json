@@ -376,7 +376,17 @@
 		},
 		{
 			"date": "2026-03-02",
+			"type": "absence",
+			"title": "Professor Epstein Away"
+		},
+		{
+			"date": "2026-03-02",
 			"type": "officehours_weijun"
+		},
+		{
+			"date": "2026-03-03",
+			"type": "absence",
+			"title": "Professor Epstein Away"
 		},
 		{
 			"date": "2026-03-03",
@@ -389,20 +399,31 @@
 		{
 			"date": "2026-03-03",
 			"type": "lecture",
-			"title": "GenAI and Interface Development"
+			"title": "GenAI and Interface Development (Weijun/Ziqi)"
+		},
+		{
+			"date": "2026-03-04",
+			"type": "absence",
+			"title": "Professor Epstein Away"
 		},
 		{
 			"date": "2026-03-04",
 			"type": "officehours_ziqi"
 		},
-        {
+		{
 			"date": "2026-03-05",
-			"type": "officehours_daniel"
+			"type": "absence",
+			"title": "Professor Epstein Away"
 		},
         {
 			"date": "2026-03-05",
 			"type": "lecture",
-			"title": "Beyond Web & Mobile"
+			"title": "TBD"
+		},
+		{
+			"date": "2026-03-06",
+			"type": "absence",
+			"title": "Professor Epstein Away"
 		},
 		{
 			"date": "2026-03-06",
@@ -416,8 +437,28 @@
 			"name": "Sleep Tracker in Ionic"
 		},
 		{
+			"date": "2026-03-07",
+			"type": "absence",
+			"title": "Professor Epstein Away"
+		},
+		{
+			"date": "2026-03-08",
+			"type": "absence",
+			"title": "Professor Epstein Away"
+		},
+		{
+			"date": "2026-03-09",
+			"type": "absence",
+			"title": "Professor Epstein Away"
+		},
+		{
 			"date": "2026-03-09",
 			"type": "officehours_weijun"
+		},
+		{
+			"date": "2026-03-10",
+			"type": "absence",
+			"title": "Professor Epstein Away"
 		},
 		{
 			"date": "2026-03-10",
@@ -430,7 +471,12 @@
 		{
 			"date": "2026-03-10",
 			"type": "lecture",
-			"title": "Research in User Interface Development"
+			"title": "Research in User Interface Development (Weijun/Ziqi)"
+		},
+		{
+			"date": "2026-03-11",
+			"type": "absence",
+			"title": "Professor Epstein Away"
 		},
 		{
 			"date": "2026-03-11",
@@ -438,12 +484,13 @@
 		},
 		{
 			"date": "2026-03-12",
-			"type": "officehours_daniel"
+			"type": "absence",
+			"title": "Professor Epstein Away, No class"
 		},
 		{
-			"date": "2026-03-12",
-			"type": "lecture",
-			"title": "Wrap-up"
+			"date": "2026-03-13",
+			"type": "absence",
+			"title": "Professor Epstein Away"
 		},
 		{
 			"date": "2026-03-13",
