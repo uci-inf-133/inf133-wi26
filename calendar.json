@@ -200,7 +200,8 @@
 			"type": "lecture",
 			"title": "TypeScript & Data Visualization Tools",
 			"link": "lectures/l7-typescript_visualization.pdf",
-			"demo": "demos/l7-typescript_visualization.zip"
+			"demo": "demos/l7-typescript_visualization.zip",
+			"recording": "https://uci.yuja.com/V/Video?v=15205784&a=23340482"
 		},
 		{
 			"date": "2026-01-28",
@@ -343,7 +344,8 @@
 			"date": "2026-02-20",
 			"type": "assignment",
 			"title": "A3",
-			"name": "Spotify Browser in Angular"
+			"name": "Spotify Browser in Angular",
+			"link": "assignments/a3"
 		},
 		{
 			"date": "2026-02-23",
