@@ -216,12 +216,14 @@
 			"type": "lecture",
 			"title": "AJAX, Fetch, & Promises",
 			"link": "lectures/l8-ajax_fetch_promises.pdf",
-			"demo": "demos/l8-ajax_fetch_promises.zip"
+			"demo": "demos/l8-ajax_fetch_promises.zip",
+			"recording": "https://uci.yuja.com/V/Video?v=15229539&a=80642856"
 		},
 		{
 			"date": "2026-01-30",
 			"type": "discussion",
-			"title": "Vega-Lite Demo (Weijun)"
+			"title": "Vega-Lite Demo (Weijun)",
+			"link":"https://inf133.netlify.app/vega_lite.html"
 		},
 		{
 			"date": "2026-02-02",
