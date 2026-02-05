@@ -258,10 +258,6 @@
 		},
 		{
 			"date": "2026-02-05",
-			"type": "officehours_daniel"
-		},
-		{
-			"date": "2026-02-05",
 			"type": "lecture",
 			"title": "Components in Angular",
 			"link": "lectures/l10-angular_components.pdf",
