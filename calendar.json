@@ -306,7 +306,7 @@
 		{
 			"date": "2026-02-13",
 			"type": "discussion",
-			"title": "TA Office Hours (TBD)"
+			"title": "TA Office Hours (Ziqi)"
 		},
 		{
 			"date": "2026-02-16",
@@ -342,10 +342,10 @@
 		{
 			"date": "2026-02-20",
 			"type": "discussion",
-			"title": "TA Office Hours (Ziqi)"
+			"title": "TA Office Hours (Weijun)"
 		},
         {
-			"date": "2026-02-20",
+			"date": "2026-02-22",
 			"type": "assignment",
 			"title": "A3",
 			"name": "Spotify Browser in Angular",
@@ -384,7 +384,7 @@
         {
 			"date": "2026-02-27",
 			"type": "discussion",
-			"title": "Ionic Demo (TBD)"
+			"title": "Ionic Demo (Ziqi)"
 		},
 		{
 			"date": "2026-03-02",
@@ -440,13 +440,7 @@
 		{
 			"date": "2026-03-06",
 			"type": "discussion",
-			"title": "TA Office Hours (TBD)"
-		},
-		{
-			"date": "2026-03-06",
-			"type": "assignment",
-			"title": "A4",
-			"name": "Sleep Tracker in Ionic"
+			"title": "TA Office Hours (Weijun)"
 		},
 		{
 			"date": "2026-03-07",
@@ -457,6 +451,12 @@
 			"date": "2026-03-08",
 			"type": "absence",
 			"title": "Professor Epstein Away"
+		},
+		{
+			"date": "2026-03-08",
+			"type": "assignment",
+			"title": "A4",
+			"name": "Sleep Tracker in Ionic"
 		},
 		{
 			"date": "2026-03-09",
@@ -507,7 +507,7 @@
 		{
 			"date": "2026-03-13",
 			"type": "discussion",
-			"title": "TA Office Hours (TBD)"
+			"title": "TA Office Hours (Ziqi)"
 		},
 		{
 			"date": "2026-03-17",
