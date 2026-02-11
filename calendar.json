@@ -287,7 +287,8 @@
 			"type": "lecture",
 			"title": "Separation in Angular & Modeling Human Performance",
 			"link": "lectures/l11-angular_separation_human_performance.pdf",
-			"demo": "demos/l11-angular_separation_human_performance.zip"
+			"demo": "demos/l11-angular_separation_human_performance.zip",
+			"recording": "https://uci.yuja.com/V/Video?v=15344671&a=12294047"
 		},
 		{
 			"date": "2026-02-11",
