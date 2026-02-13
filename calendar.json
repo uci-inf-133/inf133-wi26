@@ -302,7 +302,8 @@
 			"date": "2026-02-12",
 			"type": "lecture",
 			"title": "Hybrid & Native Architectures",
-			"link": "lectures/l12-hybrid_native.pdf"
+			"link": "lectures/l12-hybrid_native.pdf",
+			"recording": "https://uci.yuja.com/V/Video?v=15364018&a=57283224"
 		},
 		{
 			"date": "2026-02-13",
@@ -461,7 +462,8 @@
 			"date": "2026-03-08",
 			"type": "assignment",
 			"title": "A4",
-			"name": "Sleep Tracker in Ionic"
+			"name": "Sleep Tracker in Ionic",
+			"link": "assignments/a4"
 		},
 		{
 			"date": "2026-03-09",
