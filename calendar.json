@@ -445,7 +445,7 @@
         {
 			"date": "2026-03-05",
 			"type": "lecture",
-			"title": "TBD (Tom Zimmerman)"
+			"title": "AI and Software (Tom Zimmerman)"
 		},
 		{
 			"date": "2026-03-06",
@@ -529,7 +529,8 @@
 			"date": "2026-03-17",
 			"type": "assignment",
 			"title": "A5",
-			"name": "Material Widget Factory with GenAI"
+			"name": "Material Widget Factory with GenAI",
+			"link": "assignments/a5"
 		}
 	]
 }
