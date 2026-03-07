@@ -427,7 +427,8 @@
 			"date": "2026-03-03",
 			"type": "lecture",
 			"title": "GenAI and Interface Development (Weijun/Ziqi)",
-			"link": "lectures/l17-genai_interface.pdf"
+			"link": "lectures/l17-genai_interface.pdf",
+			"recording": "https://uci.yuja.com/V/Video?v=15532545&a=17829478"
 		},
 		{
 			"date": "2026-03-04",
@@ -446,7 +447,8 @@
         {
 			"date": "2026-03-05",
 			"type": "lecture",
-			"title": "AI and Software (Tom Zimmerman)"
+			"title": "AI and Software (Tom Zimmerman)",
+			"recording": "https://uci.yuja.com/V/Video?v=15553174&a=10399236"
 		},
 		{
 			"date": "2026-03-06",
