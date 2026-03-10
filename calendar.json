@@ -502,7 +502,8 @@
 		{
 			"date": "2026-03-10",
 			"type": "lecture",
-			"title": "Research in User Interface Development (Weijun/Ziqi)"
+			"title": "Research in User Interface Development (Weijun/Ziqi)",
+			"link": "lectures/l19-prototyping_in_research.pdf"
 		},
 		{
 			"date": "2026-03-11",
