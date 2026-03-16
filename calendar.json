@@ -531,6 +531,16 @@
 			"title": "TA Office Hours (Ziqi)"
 		},
 		{
+			"date": "2026-03-16",
+			"type": "officehours_weijun",
+			"place": {
+					"time": "11:00",
+					"duration": "60",
+					"location": "Zoom",
+					"link": "https://uci.zoom.us/j/3993699399"
+				}
+		},
+		{
 			"date": "2026-03-17",
 			"type": "assignment",
 			"title": "A5",
